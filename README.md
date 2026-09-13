@@ -16,6 +16,16 @@ an old zone years later keeps a new id — and harmlessly so: a quest outside th
 range is silent for anyone who holds only this pack, which is what already
 happens for a clip nobody has generated yet.
 
+## On Classic Era the words can differ
+
+The clips were read from Retail quest text. On Classic Era the same quest id
+does not always mean the same words: roughly one in five shared ids has a
+different German title (`Garrick Padfoot` vs `Garrick Schleichfuß`,
+`Blackrock` vs `Schwarzfelsklan`), and some ids are entirely different quests
+on the two games. Offer, progress and hand-in lines come from the same source,
+so where the text diverged you will hear the Retail telling. This note stands
+until the clips are re-read from Classic text.
+
 ## It does nothing on its own
 
 Everything that decides when to play a clip is in the engine addon,
