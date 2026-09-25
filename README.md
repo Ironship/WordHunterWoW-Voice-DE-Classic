@@ -2,7 +2,7 @@
 
 The German a quest giver says out loud, for Classic: quest ids **1–9,665**.
 
-**25,234 clips, 35.1 hours.** Both are counted from this pack's own duration
+**25,248 clips, 35.2 hours.** Both are counted from this pack's own duration
 table in `Part.lua` — the table the engine plays from — so they are what the
 pack can actually be asked for, not what happens to sit on disk.
 
